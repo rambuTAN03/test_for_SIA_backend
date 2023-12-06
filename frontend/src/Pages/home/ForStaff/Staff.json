@@ -1,0 +1,33 @@
+ [
+        {
+            "firstName": "Harold",
+            "lastName": "Ju",
+            "email": "sample01@email.com",
+            "password": "password1234",
+            "userType": "Admin",
+            "activationStatus": true,
+            "role": "User",
+            "position": "Manager"
+        },
+        {
+            "firstName": "Ming",
+            "lastName": "Cooper",
+            "email": "sample02@email.com",
+            "password": "password0987",
+            "userType": "Admin",
+            "activationStatus": true,
+            "role": "Staff",
+            "position": "Customer Service"
+        },
+        {
+            "firstName": "John",
+            "lastName": "Doe",
+            "email": "sample03@email.com",
+            "password": "password4567",
+            "userType": "Admin",
+            "activationStatus": true,
+            "role": "Staff",
+            "position": "Cashier"
+        }
+    ]
+    

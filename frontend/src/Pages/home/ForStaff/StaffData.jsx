@@ -1,16 +1,11 @@
-
-import  JSONData  from './DashData.json';
-
-let dashData = JSONData;
-
-
-export const DashboardData = {
+export const StaffData = {
 
     
 
     getProductsData() {
 
-        return dashData;
+        return [
+           ];
     },
 
     getProductsMini() {
