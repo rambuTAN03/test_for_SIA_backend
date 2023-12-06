@@ -1,11 +1,14 @@
+import  JSONData  from './Staff.json';
+
+let staffJSON = JSONData;
+
 export const StaffData = {
 
     
 
     getProductsData() {
 
-        return [
-           ];
+        return staffJSON;
     },
 
     getProductsMini() {

@@ -1,7 +1,7 @@
  [
         {
-            "firstName": "Harold",
-            "lastName": "Ju",
+            "id" :"000",
+            "name": "Harold Ju",
             "email": "sample01@email.com",
             "password": "password1234",
             "userType": "Admin",
@@ -10,8 +10,8 @@
             "position": "Manager"
         },
         {
-            "firstName": "Ming",
-            "lastName": "Cooper",
+            "id" :"001",
+            "name": "Ming Cooper",
             "email": "sample02@email.com",
             "password": "password0987",
             "userType": "Admin",
@@ -19,9 +19,9 @@
             "role": "Staff",
             "position": "Customer Service"
         },
-        {
-            "firstName": "John",
-            "lastName": "Doe",
+        {   
+            "id" :"002",
+            "name": "John Doe",
             "email": "sample03@email.com",
             "password": "password4567",
             "userType": "Admin",
