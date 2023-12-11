@@ -1,6 +1,6 @@
 import  JSONData  from './Staff.json';
 
-let staffJSON = JSONData;
+let staffJSON = JSONData.__collections__;
 
 export const StaffData = {
 
