@@ -1,7 +1,7 @@
 
 import  JSONData  from './DashData.json';
 
-let dashData = JSONData;
+let dashData = JSONData.__collections__;
 
 
 export const DashboardData = {
